@@ -12,7 +12,7 @@ Esta API foi construída com **Java e Spring Boot** para servir como o cérebro 
 
 ### A Evolução de uma Ideia
 
-Este projeto nasceu como uma aplicação de console em Java, desenvolvida para um trabalho de faculdade com foco em conceitos de Programação Orientada a Objetos. A motivação foi evoluir essa base de código para uma solução web moderna, transformando a lógica original em uma API RESTful completa, capaz de se comunicar com qualquer cliente web.
+Este projeto nasceu como uma aplicação de console em Java, desenvolvida para um trabalho de faculdade com foco em conceitos de Programação Orientada a Objetos, acesse o repositorio **[AreaVerde (Java)](https://github.com/DougBrando/AreaVerde.git). A motivação foi evoluir essa base de código para uma solução web moderna, transformando a lógica original em uma API RESTful completa, capaz de se comunicar com qualquer cliente web.
 
 A API não utiliza um banco de dados tradicional. Em vez disso, ela faz a **persistência dos dados em um arquivo JSON local** (`dados_areas_verdes.json`), demonstrando uma solução de armazenamento simples e eficaz para projetos de pequeno e médio porte.
 
